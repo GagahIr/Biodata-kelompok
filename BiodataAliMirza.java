@@ -6,6 +6,6 @@ public class BiodataAliMirza {
         System.out.println("Kelas\t : 1B");
         System.out.println("Prodi\t : Sistem Informasi Bisnis");
         System.out.println("Jurusan\t : Teknollogi Informasi");
-        System.out.println("Alamat\t : Jl. Dusun Buwek Rt.04 Rw.04");
+        System.out.println("Alamat\t : Jl. Dusun Buwek Rt.04 Rw.04.");
     }
 }
